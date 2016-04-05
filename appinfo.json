@@ -1,0 +1,212 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Fabio Gandini",
+    "longName": "Revolution senza secondi based on https://github.com/DouweM/PebbleRevolution",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/time_9.png",
+                "name": "IMAGE_TIME_9",
+                "type": "png"
+            },
+            {
+                "file": "images/time_8.png",
+                "name": "IMAGE_TIME_8",
+                "type": "png"
+            },
+            {
+                "file": "images/time_7.png",
+                "name": "IMAGE_TIME_7",
+                "type": "png"
+            },
+            {
+                "file": "images/time_6.png",
+                "name": "IMAGE_TIME_6",
+                "type": "png"
+            },
+            {
+                "file": "images/time_5.png",
+                "name": "IMAGE_TIME_5",
+                "type": "png"
+            },
+            {
+                "file": "images/time_4.png",
+                "name": "IMAGE_TIME_4",
+                "type": "png"
+            },
+            {
+                "file": "images/time_3.png",
+                "name": "IMAGE_TIME_3",
+                "type": "png"
+            },
+            {
+                "file": "images/time_2.png",
+                "name": "IMAGE_TIME_2",
+                "type": "png"
+            },
+            {
+                "file": "images/time_1.png",
+                "name": "IMAGE_TIME_1",
+                "type": "png"
+            },
+            {
+                "file": "images/time_0.png",
+                "name": "IMAGE_TIME_0",
+                "type": "png"
+            },
+            {
+                "file": "images/second_9.png",
+                "name": "IMAGE_SECOND_9",
+                "type": "png"
+            },
+            {
+                "file": "images/second_8.png",
+                "name": "IMAGE_SECOND_8",
+                "type": "png"
+            },
+            {
+                "file": "images/second_7.png",
+                "name": "IMAGE_SECOND_7",
+                "type": "png"
+            },
+            {
+                "file": "images/second_6.png",
+                "name": "IMAGE_SECOND_6",
+                "type": "png"
+            },
+            {
+                "file": "images/second_5.png",
+                "name": "IMAGE_SECOND_5",
+                "type": "png"
+            },
+            {
+                "file": "images/second_4.png",
+                "name": "IMAGE_SECOND_4",
+                "type": "png"
+            },
+            {
+                "file": "images/second_3.png",
+                "name": "IMAGE_SECOND_3",
+                "type": "png"
+            },
+            {
+                "file": "images/second_2.png",
+                "name": "IMAGE_SECOND_2",
+                "type": "png"
+            },
+            {
+                "file": "images/second_1.png",
+                "name": "IMAGE_SECOND_1",
+                "type": "png"
+            },
+            {
+                "file": "images/second_0.png",
+                "name": "IMAGE_SECOND_0",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/day_6.png",
+                "name": "IMAGE_DAY_6",
+                "type": "png"
+            },
+            {
+                "file": "images/day_5.png",
+                "name": "IMAGE_DAY_5",
+                "type": "png"
+            },
+            {
+                "file": "images/day_4.png",
+                "name": "IMAGE_DAY_4",
+                "type": "png"
+            },
+            {
+                "file": "images/day_3.png",
+                "name": "IMAGE_DAY_3",
+                "type": "png"
+            },
+            {
+                "file": "images/day_2.png",
+                "name": "IMAGE_DAY_2",
+                "type": "png"
+            },
+            {
+                "file": "images/day_1.png",
+                "name": "IMAGE_DAY_1",
+                "type": "png"
+            },
+            {
+                "file": "images/day_0.png",
+                "name": "IMAGE_DAY_0",
+                "type": "png"
+            },
+            {
+                "file": "images/date_9.png",
+                "name": "IMAGE_DATE_9",
+                "type": "png"
+            },
+            {
+                "file": "images/date_8.png",
+                "name": "IMAGE_DATE_8",
+                "type": "png"
+            },
+            {
+                "file": "images/date_7.png",
+                "name": "IMAGE_DATE_7",
+                "type": "png"
+            },
+            {
+                "file": "images/date_6.png",
+                "name": "IMAGE_DATE_6",
+                "type": "png"
+            },
+            {
+                "file": "images/date_5.png",
+                "name": "IMAGE_DATE_5",
+                "type": "png"
+            },
+            {
+                "file": "images/date_4.png",
+                "name": "IMAGE_DATE_4",
+                "type": "png"
+            },
+            {
+                "file": "images/date_3.png",
+                "name": "IMAGE_DATE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/date_2.png",
+                "name": "IMAGE_DATE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/date_1.png",
+                "name": "IMAGE_DATE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/date_0.png",
+                "name": "IMAGE_DATE_0",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Revolution senza secondi",
+    "uuid": "4099a757-9f39-4faa-8ec4-d90f654b1ae3",
+    "versionCode": 1,
+    "versionLabel": "3.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
